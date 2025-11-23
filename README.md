@@ -2,6 +2,6 @@
 
 版本：1.0 (BETA)
 
-<h6>
-  Made with Godot
-  ©️Craso Studio 2025 保留所有权利</h6>
+<h6>Made with Godot</h6>
+  
+<h6>©️Craso Studio 2025 保留所有权利</h6>
